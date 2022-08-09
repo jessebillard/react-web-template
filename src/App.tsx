@@ -1,22 +1,18 @@
-
-import './App.css';
+import "./App.css";
 
 function App() {
-  
-  const test = () => 
-  {
-      console.log("wowowoowowow")
-        const coo = "";
+  const test = () => {
+    console.log("wowowoowowow");
+    const coo = "";
 
-  coo.toUpperCase();
-  }
+    coo.toUpperCase();
+  };
 
   return (
     <>
       <h1>REACT WEB TEMPLATE</h1>
-            <div>WOWOWOWO</div>
+      <div>WOWOWOWO</div>
     </>
-          
   );
 }
 
